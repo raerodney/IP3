@@ -35,3 +35,9 @@
     margin-left: 400px;
     padding: 50px;
 }
+#port {
+    margin: 9px;
+}
+#port2 {
+    display: block;
+}
