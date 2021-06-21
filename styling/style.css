@@ -20,6 +20,8 @@
 #service-logos col{
     margin: 100px;
     padding: 400px;
+    margin-bottom: 200px;
+
     
 }
 #services {
@@ -36,8 +38,11 @@
     padding: 50px;
 }
 #port {
-    margin: 9px;
+    margin: 10px;
 }
 #port2 {
-    display: block;
+    
+}
+#portHeda {
+    margin-left: 200px;
 }
