@@ -5,6 +5,7 @@
 }
 .center-intro {
     align-self: center;
+    padding-top: 250px;
     margin-left: 500px;
     height: 100%;
 }
