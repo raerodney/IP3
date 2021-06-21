@@ -1,11 +1,13 @@
 #landing {
     
-    height: 590px;
+    height: 800px;
+    width: 100%;
+    background-attachment: fixed;
     
 }
 .center-intro {
-    align-self: center;
-    padding-top: 250px;
+    
+    padding-top: 200px;
     margin-left: 500px;
     height: 100%;
 }
@@ -16,5 +18,20 @@
     
 }
 #service-logos col{
-    padding: 300;
+    margin: 100px;
+    padding: 400px;
+    
+}
+#services {
+    
+    padding: 90px;
+    background-attachment: fixed;
+    opacity: 90%;
+}
+#logo-service {
+    margin-left: 190px;
+}
+#serviceHeda {
+    margin-left: 400px;
+    padding: 50px;
 }
