@@ -9,6 +9,12 @@
     margin-left: 500px;
     height: 100%;
 }
+#services {
+    opacity: 100%;
+}
 .container {
     
+}
+#service-logos img{
+    margin-left: 500px;
 }
