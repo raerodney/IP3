@@ -5,6 +5,7 @@ html{
     background-image: url('../images/backgrounds/h_img.jpg');
     background-position: center center;
     background-size: cover;
+    backface-visibility: hidden;
     background-repeat: no-repeat;
     color: white;
     text-align: center;
