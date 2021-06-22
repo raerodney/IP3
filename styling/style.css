@@ -56,6 +56,9 @@ html{
     padding-top:40px;
     font-family: 'Copse', serif;
   }
+  .about p {
+    font-family: 'Pathway Gothic One', sans-serif;
+  }
   #about{
     font-family: 'Teko', sans-serif;;
   }
@@ -66,11 +69,11 @@ html{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Copse', serif;
+    font-family: 'Teko', sans-serif;;;
     font-size: 18px;
   }
   .services h2{
-    font-family: 'Gabriela', serif;
+    font-family: 'Teko', sans-serif;
     
   }
   #servicesoverlay{
@@ -82,7 +85,10 @@ html{
     font-family: 'Quattrocento', serif;
     text-align: center;
     padding-top: 40px;
-    font-family: 'Gabriela', serif;
+    font-family: 'Teko', sans-serif;
+  }
+  .title p {
+    font-family: 'Teko', sans-serif;
   }
   .what-we-do .headings{
     padding-bottom: 38px;
@@ -109,7 +115,6 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    /* text-align: center; */
   }
   .title{
     padding: 6px;
