@@ -76,6 +76,11 @@ html{
     font-family: 'Teko', sans-serif;
     
   }
+  #contactUs {
+
+font-family:'Teko', sans-serif ;
+
+  }
   #servicesoverlay{
     background-color: rgba(0,0,0,0.4);
     padding-top: 10%;
@@ -136,9 +141,7 @@ html{
     font-family: 'Copse', serif;
   }
   
-  .form-control::-webkit-input-placeholder { 
-    color: white; 
-  }
+
   #MERGE1{
     width: 30%;
     margin-left: 18%;
