@@ -4,7 +4,7 @@ $(document).ready(function(){
       $("#development").show('1500');
     });
     $("#development").click(function(){
-      $("#development").slideUp('1500');
+      $("#development").slideUp('3000');
       $("#development-image").slideDown('1500');
     });
   });
@@ -40,9 +40,9 @@ $(document).ready(function(){
   });
   $(document).ready(function(){
     $("#work2").mouseover(function(){
-      $("#overlay2").show();
+      $("#overlay2").show(200);
     }).mouseout(function(){
-      $("#overlay2").hide();
+      $("#overlay2").hide(200);
     });
   });
   $(document).ready(function(){
