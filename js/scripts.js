@@ -93,7 +93,7 @@ $(document).ready(function(){
         alert (name + ",Thanks for reaching out to rodney & co");
       }
       else {
-        alert("Please enter your name and email!");
+        alert("Dont Leave without leaving a message!!");
       }
       
     });
