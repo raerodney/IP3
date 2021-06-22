@@ -38,11 +38,28 @@
     padding: 50px;
 }
 #port {
-    margin: 10px;
+    align-self: center;
+ 
 }
 #port2 {
+    margin-top: 5px;
+    float: inline-end;
+    margin: 0%;
     
 }
 #portHeda {
-    margin-left: 200px;
+    margin-left: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#port1 {
+    float: inline-end;
+    margin: 0%;
+}
+#comments {
+    padding: 80px;
+    
+}
+#nameEmail, #emailDomain {
+    margin: 10px;
 }
