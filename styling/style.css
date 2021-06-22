@@ -16,9 +16,11 @@ html{
   .landing h1{
     padding: 2px;
     margin: 5px;
+    font-family:'Prompt', sans-serif; 
   }
   .landing p{
     padding: 2px;
+    font-family: 'Balsamiq Sans', cursive;
   }
   #logo{
     margin-top: 12px;
@@ -55,7 +57,7 @@ html{
     font-family: 'Copse', serif;
   }
   #about{
-    font-family: 'Gabriela', serif;
+    font-family: 'Teko', sans-serif;;
   }
   .services{
     text-align: center;
